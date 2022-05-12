@@ -1,0 +1,11 @@
+table,
+td {
+    border: 1px solid red;
+    border-collapse: collapse;
+    text-align: right;
+    padding: 5px;
+}
+
+.undo {
+    border: none;
+}
